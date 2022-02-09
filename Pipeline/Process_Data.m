@@ -2,7 +2,7 @@ function Process_Data(fname,folder,MotionFlag,EMGFlag,ForceFlag,ForceComFlage,Fo
 % This function requires the installation of the BTK (Biomechanical
 % Toolkit) Matlab wrapper which must be added to the Matlab path. Please
 % ensure you install the correct wrapper for your operating platform (ie.
-% Windows, Mac etc) - please see http://code.google.com/p/b-tk/ for more
+% Windows, Mac etc) - pleasesee http://code.google.com/p/b-tk/ for more
 % information and cite appropriately -
 % further info at http://b-tk.googlecode.com/svn/doc/Matlab/0.1/index.html
 %% C3D file reading
